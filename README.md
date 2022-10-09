@@ -1,1 +1,2 @@
 # Employee.Tracker
+## This is a command line application for managing a company's employee database. Users will be able to view and manage all departments, roles, and employees in their company. They will be able to add departments, roles, and employees, and update the database as needed.
